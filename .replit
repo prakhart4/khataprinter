@@ -1,0 +1,7 @@
+
+entrypoint= "khataprinter/src/pages/index.tsx"
+
+run = "cd khataprinter && npm run dev"
+
+[nix]
+channel = "stable-22_11"
